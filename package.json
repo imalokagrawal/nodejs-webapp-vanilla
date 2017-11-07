@@ -5,5 +5,8 @@
   "main": "server.js",
   "author": {
     "name": "alagrawa"
+  },
+  "dependencies": {
+    "applicationinsights": "^1.0.0"
   }
 }
